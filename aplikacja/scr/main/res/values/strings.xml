@@ -1,0 +1,72 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name" translatable="false">bluetooth2</string>
+    <string name="uuid" translatable="false" tools:ignore="TypographyDashes">00001101-0000-1000-8000-00805F9B34FB</string>
+
+    <string name="connection_failed">Connection Failed</string>
+    <string name="connection_succeed">Connection Succeed</string>
+    <string name="connect_command" translatable="false">Connect;</string>
+    <string name="connect_button">Connect</string>
+    <string name="connected">Connected</string>
+    <string name="connected_device">Connected Device:</string>
+    <string name="connection">Connection</string>
+
+    <string name="disconnection_failed">Disconnection Failed</string>
+    <string name="disconnection_succeed">Disconnection Succeed</string>
+    <string name="disconnect_button">Disconnect</string>
+    <string name="disconnect_command" translatable="false">Disconnect;</string>
+    <string name="disconnected">Disconnected</string>
+
+    <string name="permissions">Permissions:</string>
+    <string name="permission_accepted">Granted</string>
+    <string name="permission_refused">Refused</string>
+
+    <string name="esp32_not_connected">ESP32 not connected\n</string>
+    <string name="esp32" translatable="false">ESP32</string>
+
+    <string name="canvas_error">There is not equal number of elements in xValues and yValues!</string>
+    <string name="error">Error</string>
+    <string name="no_data">No data</string>
+
+    <string name="led_on_command" translatable="false">1;</string>
+    <string name="led_on" translatable="false">LED ON</string>
+    <string name="led_off_command" translatable="false">0;</string>
+    <string name="led_of" translatable="false">LED OFF</string>
+
+    <string name="settings">Settings</string>
+    <string name="bluetooth_settings">Bluetooth Settings</string>
+    <string name="language_settings">Language Settings</string>
+
+    <string name="file_as_table">Show database</string>
+    <string name="file_as_plot">Show database as plot</string>
+
+    <string name="language_text">Language change is not available when Bluetooth connection is established</string>
+    <string name="language">Language:</string>
+    <string name="english" translatable="false">english</string>
+    <string name="english_code" translatable="false">en</string>
+    <string name="polish" translatable="false">polski</string>
+    <string name="polish_code" translatable="false">pl</string>
+
+    <string name="yes">yes</string>
+    <string name="no">no</string>
+    <string name="ok" translatable="false">OK</string>
+
+    <string name="menu" translatable="false">Menu</string>
+    <string name="reload_app">Permissions refused!\n If it was by mistake, download the application again, or restart it</string>
+    <string name="received_data">Received Data:</string>
+    <string name="return_button">Return</string>
+    <string name="clear_database">Clear database</string>
+
+    <string name="dialog_message">The language has been changed</string>
+    <string name="dialog_message2">Confirm clearing database</string>
+
+    <string name="table_header_time">Time[s]</string>
+    <string name="adxl_x" translatable="false">x</string>
+    <string name="adxl_y" translatable="false">y</string>
+    <string name="adxl_z" translatable="false">z</string>
+    <string name="bpm" translatable="false">bpm</string>
+    <string name="spo2" translatable="false">spo2</string>
+    <string name="breath">breath</string>
+
+    <string name="plot_message">Not enough elements in database</string>
+    <string name="plot_list">Plot Type</string>
+</resources>

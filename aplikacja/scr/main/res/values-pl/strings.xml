@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="connection_failed">Połączenie nieudane</string>
+    <string name="connection_succeed">Połączenie udane</string>
+    <string name="connect_button">Połącz</string>
+    <string name="connected">Połączony</string>
+    <string name="connected_device">Połączone urządzenie:</string>
+    <string name="connection">Połączenie</string>
+
+    <string name="disconnection_failed">Rozłączenie nieudane</string>
+    <string name="disconnection_succeed">Rozłączenie udane</string>
+    <string name="disconnect_button">Rozłącz</string>
+    <string name="disconnected">Rozłączony</string>
+
+    <string name="permissions">Uprawnienia:</string>
+    <string name="permission_accepted">Przyznane</string>
+    <string name="permission_refused">Nieprzyznane</string>
+
+    <string name="esp32_not_connected">ESP32 nie połączony\n</string>
+
+    <string name="error">Błąd</string>
+    <string name="canvas_error">Zbiory danych xValues i yValues nie mają równej ilości elementów</string>
+    <string name="no_data">Brak danych</string>
+
+    <string name="settings">Ustawienia</string>
+    <string name="bluetooth_settings">Ustawienia Bluetooth</string>
+    <string name="language_settings">Ustawienia Języka</string>
+
+    <string name="language_text">Zmiana języka niedostępna przy aktywnym połączeniu Bluetooth</string>
+    <string name="language">Język:</string>
+
+    <string name="file_as_table">Pokaż bazę danych</string>
+    <string name="file_as_plot">Pokaż bazę danych jako wykres</string>
+
+    <string name="dialog_message">Język został zmieniony</string>
+    <string name="dialog_message2">Potwierdź wyczyszcenie bazy danych</string>
+
+    <string name="yes">tak</string>
+    <string name="no">nie</string>
+
+    <string name="received_data">Odebrane Dane:</string>
+    <string name="return_button">Powrót</string>
+    <string name="reload_app">Zgoda odrzucona!\n Jeśli było to przez pomyłkę, pobierz aplikację ponownie, albo ją zrestartuj</string>
+    <string name="clear_database">Wyczyść bazę danych</string>
+
+    <string name="breath">oddech</string>
+
+    <string name="table_header_time">Czas[s]</string>
+
+    <string name="plot_message">Za mało elementów w bazie danych</string>
+    <string name="plot_list">Typ wykresu</string>
+</resources>
